@@ -1,6 +1,6 @@
 <ul>
   <li>Ex1: Work with color matrix & map matrix</li>
-  <li>Ex2: آhistogram matching & Jensen </li>
+  <li>Ex2: histogram matching & Jensen </li>
   <li>Ex3: Filtering </li>
   <li>Ex4: homomorphic filter </li>
   <li>Ex5: Noises & noise removal </li>
